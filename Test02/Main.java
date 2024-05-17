@@ -6,8 +6,8 @@ public class Main
 {
     public static void main(String[] args) {
         
-        HelloWorld h = new HelloWorld();
-        h.printHelloWorld();
+        HelloWorld h1 = new HelloWorld();
+        h1.printHelloWorld();
         
     }//end main
 
