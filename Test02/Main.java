@@ -1,10 +1,13 @@
 package Test02;
 
+import javax.swing.text.html.HTMLWriter;
+
 public class Main
 {
     public static void main(String[] args) {
         
-        System.out.println("Hello World");
+        HelloWorld h = new HelloWorld();
+        h.printHelloWorld();
         
     }//end main
 
