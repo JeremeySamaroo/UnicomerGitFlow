@@ -4,9 +4,9 @@ public class Main
 {
     public static void main(String[] args) {
         
-        System.out.println("Hello World update on main directly again.");
+        System.out.println("Hello World update on main directly again. changed locally");
 
-        System.out.println("Added by other developer. on main directly again.");
+        System.out.println("Added by other developer. on main directly again. changed locally");
 
         int a = 0; 
         int b = 10;
